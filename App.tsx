@@ -14,11 +14,11 @@ import { EjercicioDos9 } from './src/screens/EjercicioDos9'
 const App = () => {
   return (
     <SafeAreaView style={{flex:1}}>
-      {/*<EjercicioUno/>*/}
+      <EjercicioUno/>
       {/*<EjercicioDos1/>*/}
       {/*<EjercicioDos2/>*/}
       {/*<EjercicioDos3/>*/}
-      <EjercicioDos4/>
+      {/*<EjercicioDos4/>*/}
       {/*<EjercicioDos5/>*/}
       {/*<EjercicioDos6/>*/}
       {/*<EjercicioDos7/>*/}

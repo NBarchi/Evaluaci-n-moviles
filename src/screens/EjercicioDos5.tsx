@@ -32,7 +32,7 @@ const styles = StyleSheet.create({
         height: '100%',
         backgroundColor: '#F5B041',
         borderWidth: 4,
-        borderColor: 'white '
+        borderColor: 'white'
     },
 
     box3:{
